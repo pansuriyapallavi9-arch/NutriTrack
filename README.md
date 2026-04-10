@@ -20,7 +20,7 @@ A full-stack nutrition tracking web app built with MERN stack + Python Flask.
 ## Setup Instructions
 
 ### 1. Clone the repo
-git clone https://github.com/yourusername/nutritrack.git
+git clone https://github.com/pansuriyapallavi9-arch/NutriTrack.git
 cd nutritrack
 
 ### 2. Server setup
